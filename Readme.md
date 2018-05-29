@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Артур Шах](https://up.htmlacademy.ru/javascript/14/user/295975).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Лапко] (https://htmlacademy.ru/profile/go_lapko).
 
 ---
 
